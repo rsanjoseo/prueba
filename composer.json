@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=8.2",
+        "rsanjoseo/alxarafe": "^0.0.36"
+    }
+}
